@@ -12,7 +12,7 @@ Este proyecto es un sistema CRUD de países y ciudades desarrollado con Laravel 
 ![Formulario para Agregar País](screenshots/2.png)
 
 ### Vista de Edición de País
-![Vista de Edición de País](screenshots/2.png)
+![Vista de Edición de País](screenshots/3.png)
 
 ## Instalación
 
